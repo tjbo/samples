@@ -5,6 +5,5 @@ This is a reducer written in ReScript.
 These are some of the components from the main screen that
 work with the store.
 
-
-https://user-images.githubusercontent.com/1704626/223776681-5117f429-5e0c-4a5b-ad1f-1ffec74ab753.MP4
+https://user-images.githubusercontent.com/1704626/223779461-4222a0dc-80fc-4f45-b0fc-12bbabbc6f34.MP4
 
