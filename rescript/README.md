@@ -7,5 +7,6 @@ This is a reducer written in ReScript.
 These are some of the components from the main screen that
 work with the store.
 
+## Video Sample of UI in Action
 https://user-images.githubusercontent.com/1704626/223779461-4222a0dc-80fc-4f45-b0fc-12bbabbc6f34.MP4
 
